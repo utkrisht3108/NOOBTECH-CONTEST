@@ -1,7 +1,7 @@
 # NOOBTECH-CONTEST
 Solutions for NOOBTECH CONTESTS
 
-LINK for both the contests!!
+LINK for both the contests!
 
 NOOBTECH CONTEST 1.0-- https://www.hackerrank.com/noob-tech
 
