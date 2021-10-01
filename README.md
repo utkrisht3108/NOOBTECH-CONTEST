@@ -1,5 +1,5 @@
 # NOOBTECH-CONTEST
-solutions for NOOBTECH CONTESTS
+Solutions for NOOBTECH CONTESTS
 
 LINK for both the contests!!
 
